@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manuel Silveiro
+- 👋 Hi, I’m Manuel Silverio
 - 👀 I’m interested in Data, AI, Android Development and iOS Development
 - 💞️ I’m looking to collaborate on projects related to Mobile app, data and AI.
 
